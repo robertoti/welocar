@@ -5,15 +5,17 @@
                     <hr id="hr-cat"/>
                 </div>
                 <div id="owl-demo">
-                  <div class="item"><img src="assets/images/chaves-2.jpg" alt="Owl Image"></div>
-                  <div class="item"><img src="assets/images/chaves-2.jpg" alt="Owl Image"></div>
-                  <div class="item"><img src="assets/images/chaves-2.jpg" alt="Owl Image"></div>
-                  <div class="item"><img src="assets/images/chaves-2.jpg" alt="Owl Image"></div>
-                  <div class="item"><img src="assets/images/chaves-2.jpg" alt="Owl Image"></div>
-                  <div class="item"><img src="assets/images/chaves-2.jpg" alt="Owl Image"></div>
-                  <div class="item"><img src="assets/images/chaves-2.jpg" alt="Owl Image"></div>
-                  <div class="item"><img src="assets/images/chaves-2.jpg" alt="Owl Image"></div>
-                  <div class="item"><img src="assets/images/chaves-2.jpg" alt="Owl Image"></div>
+   
+                  <div class="item"><img src="views/img/carro-1.jpg" alt="Veículos"></div>
+                  <div class="item"><img src="views/img/carro-2.jpg" alt="Veículos"></div>
+                  <div class="item"><img src="views/img/carro-3.jpg" alt="Veículos"></div>
+                  <div class="item"><img src="views/img/carro-1.jpg" alt="Veículos"></div>
+                  <div class="item"><img src="views/img/carro-2.jpg" alt="Veículos"></div>
+                  <div class="item"><img src="views/img/carro-3.jpg" alt="Veículos"></div>
+                  <div class="item"><img src="views/img/carro-1.jpg" alt="Veículos"></div>
+                  <div class="item"><img src="views/img/carro-2.jpg" alt="Veículos"></div>
+                  <div class="item"><img src="views/img/carro-3.jpg" alt="Veículos"></div>
+                  
                 </div>
             </div>
     

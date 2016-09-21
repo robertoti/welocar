@@ -8,8 +8,8 @@
     <div class="container">
 
         <div class="col-md-4 text-center">
-            <img src="assets/images/chaves-2.jpg" alt="">
-            <button class="btn btn-warning outline btn-lg reservar"> Veículos ouro </button>
+            <img src="views/img/carro-1.jpg" alt="">
+            <button class="btn btn-warning outline btn-lg reservar" title="Sedan executivo, completo."> Veículos ouro </button>
             <ul class="list-group">
                 <li class="list-group-item"><span class="badge">14</span>Jetta</li>
                 <li class="list-group-item"><span class="badge">14</span>Fusion</li>
@@ -20,8 +20,8 @@
 
         </div>
         <div class="col-md-4 text-center">
-            <img src="assets/images/chaves-2.jpg" alt="">
-            <button class="btn btn-default outline btn-lg reservar">Veículos prata </button>
+            <img src="views/img/carro-2.jpg" alt="">
+            <button class="btn btn-default outline btn-lg reservar " title="Sedan, 4 portas, ar-condicionado">Veículos prata </button>
 
             <ul class="list-group">
                 <li class="list-group-item"><span class="badge">14</span>Voyage</li>
@@ -33,8 +33,8 @@
 
         </div>
         <div class="col-md-4 text-center">
-            <img src="assets/images/chaves-2.jpg" alt="">
-            <button class="btn btn-danger outline btn-lg reservar">Veículos bronze</button>
+            <img src="views/img/carro-3.jpg" alt="">
+            <button class="btn btn-danger outline btn-lg reservar" title="Ar-condicionado, 4 portas, manual.">Veículos bronze</button>
 
             <ul class="list-group">
                 <li class="list-group-item"><span class="badge">14</span>Gol</li>
