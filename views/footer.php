@@ -6,7 +6,7 @@
                         <img id="logofooter" src="views/img/logo.png" alt="logo"/>
                     </div>
                     <div class="col-md-10">
-                        <span>Oferecemos o serviço de aluguel de veículos online com segurança, comodidade e garantia de qualidade</span>    
+                        <span class="container">Oferecemos o serviço de aluguel de veículos online com segurança, comodidade e garantia de qualidade</span>    
                     </div>
                     </div>
                 </div>
@@ -14,10 +14,10 @@
           
         </div>
         <div class="row panel-footer">
-            <div class="container">
-                <span class="footer-info">Copyright &copy; Projeto Integrado Multidisciplinar 2016.</span>
+            
+                <span>Copyright &copy; Projeto Integrado Multidisciplinar 2016.</span>
                 <span class="footer-info">DS4-P30<a href="/views/ajuda">Pagina de ajuda</a></span>
-         </div>
+         
           
       </div>
   </footer>
