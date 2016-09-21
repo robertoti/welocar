@@ -42,10 +42,13 @@
                                 <a href="/" title="">Inicio</a>
                             </li>
                             <li>
-                                <a href="historia.php" title="">Reservas</a>
+                                <a href="#" title="">Reservas</a>
                             </li>
                             <li>
-                                <a href="galeria.php" title="">Contato</a>
+                                <a href="#nossos-veiculos" title="">Nossos veículos</a>                                
+                            </li>
+                            <li>
+                                <a href="#contato" title="">Contato</a>
                             </li>
 
                         </ul>

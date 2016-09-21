@@ -45,6 +45,9 @@ header {
   background: #ffffff;
   z-index: 2;
 }
+header+section {
+    padding-top: 80px;
+}
 header h1{
     font-size: 40px;
     font-weight: 300;

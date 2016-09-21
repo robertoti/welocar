@@ -1,4 +1,4 @@
-<div class="row">
+<section class="row">
     <div class="container text-center">
         <h2 class="title">Nossas categorias</h2>
         <hr id="hr-cat"/>
@@ -47,7 +47,7 @@
         </div>
 
     </div>
-</div>
+</section>
 
 
 

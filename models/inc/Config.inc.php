@@ -1,8 +1,11 @@
 <?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+function __autoload($Class) {
+    $dirName = 'class';
 
+    if (file_exists("{$dirName}/{$Class}.class.php")):
+        require_once("{$dirName}/{$Class}.class.php");
+    else :
+        die("Erro ao incluir {$dirName}/{$Class}.class.php");
+    endif;
+}
