@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no" />
-    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+     <link href="../lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="../lib/css/estilos.css" rel="stylesheet" type="text/css"/>
-    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
     
     <link href="lib/owl-carousel/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css"/>
     <link href="lib/owl-carousel/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css"/>
