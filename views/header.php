@@ -57,7 +57,7 @@
 
                 <div id="login" class="pull-right">
 
-                    <form class="form-inline">
+                    <form class="form-inline" method="post" action="/">
                         <div class="form-group">
                             <label class="sr-only" for="exampleInputEmail3">Email </label>
                             <input type="email" class="form-control" id="exampleInputEmail3" placeholder="Email">
