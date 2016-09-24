@@ -18,11 +18,11 @@
             <span class="footer-info">DS4-P30<a href="/views/ajuda">Pagina de ajuda</a></span>     
           
         </div>
-  </footer>
+    </footer>
     
-     <script src="lib/jquery/jquery.min.js" type="text/javascript"></script>
-     <script src="lib/owl-carousel/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
-        <script>
+    <script src="lib/jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="lib/owl-carousel/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+    <script>
         $(document).ready(function() {
  
             $("#owl-demo").owlCarousel({
@@ -32,24 +32,16 @@
                 itemsDesktop : [1199,3],
                 itemsDesktopSmall : [979,3]
                 
-              });
-
             });
+
+        });
     
     </script> 
-        
-         
-         
+    
     <script src="lib/owl-carousel/assets/js/bootstrap-collapse.js" type="text/javascript"></script>
     <script src="lib/owl-carousel/assets/js/bootstrap-transition.js" type="text/javascript"></script>
     <script src="lib/owl-carousel/assets/js/bootstrap-tab.js" type="text/javascript"></script>
-    
-    
-   
     <script src="lib/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-   
-    
-    
     
 </body>
 </html>
