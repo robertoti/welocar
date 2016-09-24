@@ -81,7 +81,8 @@ header li a {
 }
 
 header li a:hover {
-    color: appworkspace;
+    color: #f0ad4e;
+    text-decoration: none;
 }
 
 input#control-nav {
