@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt_BR">
+<html lang="pt-br">
 <head>
     <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no" />
@@ -13,8 +13,8 @@
     <title></title>
 </head>
 <body> 
-<header>
-       <div class="espaco"></div>
+    <header>
+        <div class="espaco"></div>
         <div class="container">
            <div class="col-md-2">
                 <img id="logotipo" src="views/img/logo.png" alt="logo">            
@@ -26,55 +26,55 @@
 
 
         </div>    
-         <div id="menu">
+        <div id="menu">
 
-            <div class="container container-fluid">         
+           <div class="container container-fluid">         
 
-                    <input type="checkbox" id="control-nav" />
-                    <label for="control-nav" class="control-nav"></label>
-                    <label for="control-nav" class="control-nav-close"></label>
+                   <input type="checkbox" id="control-nav" />
+                   <label for="control-nav" class="control-nav"></label>
+                   <label for="control-nav" class="control-nav-close"></label>
 
-                    <nav class="float-l" id="menu">
+                   <nav class="float-l" id="menu">
 
-                        <ul id="float-l" class="list-auto float-l">
+                       <ul id="float-l" class="list-auto float-l">
 
-                            <li>
-                                <a href="/" title="">Inicio</a>
-                            </li>
-                            <li>
-                                <a href="#" title="">Reservas</a>
-                            </li>
-                            <li>
-                                <a href="#nossos-veiculos" title="">Nossos veículos</a>                                
-                            </li>
-                            <li>
-                                <a href="#contato" title="">Contato</a>
-                            </li>
+                           <li>
+                               <a href="/" title="">Inicio</a>
+                           </li>
+                           <li>
+                               <a href="#" title="">Reservas</a>
+                           </li>
+                           <li>
+                               <a href="#nossos-veiculos" title="">Nossos veículos</a>                                
+                           </li>
+                           <li>
+                               <a href="#contato" title="">Contato</a>
+                           </li>
 
-                        </ul>
+                       </ul>
 
-                    </nav>
+                   </nav>
 
-                <div id="login" class="pull-right">
+               <div id="login" class="pull-right">
 
-                    <form class="form-inline" method="post" action="/">
-                        <div class="form-group">
-                            <label class="sr-only" for="exampleInputEmail3">Email </label>
-                            <input type="email" class="form-control" id="exampleInputEmail3" placeholder="Email">
-                        </div>
+                   <form class="form-inline" method="get" action="/">
+                       <div class="form-group">
+                           <label class="sr-only" for="exampleInputEmail3">Email </label>
+                           <input type="email" class="form-control" id="exampleInputEmail3" placeholder="Email">
+                       </div>
 
-                        <div class="form-group">
-                            <label class="sr-only" for="exampleInputPassword3">Senha </label>
-                            <input type="password" class="form-control" id="exampleInputPassword3" placeholder="Digite sua senha...">
-                        </div>                
+                       <div class="form-group">
+                           <label class="sr-only" for="exampleInputPassword3">Senha </label>
+                           <input type="password" class="form-control" id="exampleInputPassword3" placeholder="Digite sua senha...">
+                       </div>                
 
-                        <button type="submit" class="btn btn-default">Sign in</button>
+                       <button type="submit" class="btn btn-default">Sign in</button>
 
-                    </form>
+                   </form>
 
-                </div>
+               </div>
 
-            </div>
+           </div>
 
         </div> 
     </header>
